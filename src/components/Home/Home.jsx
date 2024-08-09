@@ -17,7 +17,7 @@ export default function Home() {
                     <div className='h-1 w-20 bg-white'></div>
                 </div>
             </div>
-            <p>Graphic Artist - Web Designer - Illustrator</p>
+            <p>Graphic Artist - Web Designer - Illustrator - Kemo</p>
             </div>
             </div>
     </section>
